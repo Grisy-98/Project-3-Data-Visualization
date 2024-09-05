@@ -81,7 +81,7 @@ When conducting this project on housing trends in Central Texas, we made conscio
 <img width="930" alt="Screenshot 2024-09-05 at 5 53 43 PM" src="https://github.com/user-attachments/assets/4e802f06-5abf-44e5-a90b-f02af8d5fe3f">
 
 ### Visualization 4: Total Monthly Cost 2018-2022
-![Dataset Overview](images/total_monthly_cost_2018-2022.png) 
+![image](https://github.com/user-attachments/assets/228d3bda-7f4c-49a2-86bd-569e584a96dd)
 
 
 ## Repository Structure
