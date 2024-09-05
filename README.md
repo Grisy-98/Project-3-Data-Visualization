@@ -72,7 +72,7 @@ When conducting this project on housing trends in Central Texas, we made conscio
 
 ## Visualizations
 ### Visualization 1: Line plots analysis (2018-2022)
-![Dataset Overview](images/MCRlineplot.png)
+![image](https://github.com/user-attachments/assets/5b9f3a90-b351-494c-98d1-310fdbad05a6)
 
 ### Visualization 2: Median Contract Rent 2018-2022
 ![Dataset Overview](images/median_contract_rent_2018-2022.png)
