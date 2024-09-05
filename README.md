@@ -78,10 +78,10 @@ When conducting this project on housing trends in Central Texas, we made conscio
 ![Dataset Overview](images/median_contract_rent_2018-2022.png)
 
 ### Visualization 3: Median Monthly Cost 2018-2022
-![Dataset Overview](images/median_montly_cost_2018-2022.png)
+![Dataset Overview](images/median_monthly_cost_2018-2022.png)
 
 ### Visualization 4: Total Monthly Cost 2018-2022
-![Dataset Overview](images/total_monthly_cost_2018-2022.png)
+![Dataset Overview](images/total_monthly_cost_2018-2022.png) 
 
 
 ## Repository Structure
