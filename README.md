@@ -152,12 +152,14 @@ PROJECT-3-DATA-VISUALIZATION/
 ## User Interactivity 
 1. After successfully installing the repository, navigate to the "maps" folder where you will find all the interactive maps:
    - Median Contract Map (med_contract_map_2018-2022)
-   - Median Monthly Cost Map (med_mo_cost_map_2018-2022)
+   - Median Cost of Home Map (med_cost_of_home_map_2018-2022)
    - Total Median Monthly Cost Map (total_med_mo_cost_map_2022)
-2. Right-click on the desired HTML file and copy the file path.
-3. Paste the link on you web browser of preference.
-4. Each map allows you to:
-   - Filter between years using the dropdown menu.
+2. Click and Open the html file that you want
+3. Then click on the … more action button above the history button and click on copy permanent link. The GitHub link will be copied
+4. Then go to Raw.githack.com and paste the link into the input box
+5. Copy the URL in the production field and paste it into the browser
+6. Each map allows you to:
+   - Filter between years using the Layers menu.
    - View detailed information about zip codes, including various data points from 2018 to 2022, by hovering over the map.  
 
 ## Contributing
