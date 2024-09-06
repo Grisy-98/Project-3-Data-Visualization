@@ -77,8 +77,8 @@ When conducting this project on housing trends in Central Texas, we made conscio
 ### Visualization 2: Median Contract Rent 2018-2022
 <img width="928" alt="Screenshot 2024-09-05 at 5 50 51 PM" src="https://github.com/user-attachments/assets/4d68b264-79ce-4179-adc4-fa7c1ba360d5">
 
-### Visualization 3: Median Monthly Cost 2018-2022
-<img width="930" alt="Screenshot 2024-09-05 at 5 53 43 PM" src="https://github.com/user-attachments/assets/4e802f06-5abf-44e5-a90b-f02af8d5fe3f">
+### Visualization 3: Median Cost of Home 2018-2022
+![image](https://github.com/user-attachments/assets/1d2dfec9-5d22-4c80-a76c-9c5e2ca82918)
 
 ### Visualization 4: Total Monthly Cost 2018-2022
 ![image](https://github.com/user-attachments/assets/228d3bda-7f4c-49a2-86bd-569e584a96dd)
@@ -132,6 +132,8 @@ PROJECT-3-DATA-VISUALIZATION/
     folium  
     sqlalchemy
     jupyter
+    geopandas
+    json
     ```
 3. Install Jupyter Notebook and Visual Studio Code:
     - Install [Visual Studio Code](https://code.visualstudio.com/).
@@ -152,12 +154,14 @@ PROJECT-3-DATA-VISUALIZATION/
 ## User Interactivity 
 1. After successfully installing the repository, navigate to the "maps" folder where you will find all the interactive maps:
    - Median Contract Map (med_contract_map_2018-2022)
-   - Median Monthly Cost Map (med_mo_cost_map_2018-2022)
+   - Median Cost of Home Map (med_cost_of_home_map_2018-2022)
    - Total Median Monthly Cost Map (total_med_mo_cost_map_2022)
-2. Right-click on the desired HTML file and copy the file path.
-3. Paste the link on you web browser of preference.
-4. Each map allows you to:
-   - Filter between years using the dropdown menu.
+2. Click and Open the html file that you want
+3. Then click on the … more action button above the history button and click on copy permanent link. The GitHub link will be copied
+4. Then go to Raw.githack.com and paste the link into the input box
+5. Copy the URL in the production field and paste it into the browser
+6. Each map allows you to:
+   - Filter between years using the Layers menu.
    - View detailed information about zip codes, including various data points from 2018 to 2022, by hovering over the map.  
 
 ## Contributing
@@ -173,8 +177,8 @@ This project is licensed under the MIT License.
 2. How to create a database using SQLAlchemy. SQLAlchemy Documentation. 
    https://blog.sqlitecloud.io/sqlite-python-sqlalchemy
 3.  analysis.ipynb file. "rent_column" variable was created to read our csv files since they have a column with a number (e.g. 2018 Median Contract Rent ) and was causing problems to read that column into our database. 
-4. For our base HTML file code, we used as a reference one from the UT Data Analysis and Visualization Bootcamp. The file can be found under Module 15, Day 2, Activity 1, named "index.html".
-5. How to make choropleths with different data structures in Python. Towars Data Science. 
+4. For our first try of creating the map, the base HTML file code and java script created were referenced from one from the UT Data Analysis and Visualization Bootcamp. The file can be found under Module 15, Day 2, Activity 1, named "01-Evr_BasicNYCBoroughs".
+5. How to make choropleths with different data structures in Python. Towards Data Science. 
    https://towardsdatascience.com/creating-choropleth-maps-with-pythons-folium-library-cfacfb40f56a
 6. Create code for Pop-ups. Stack Exchange. 
    https://gis.stackexchange.com/questions/392531/modify-geojson-tooltip-format-when-using-folium-to-produce-a-map
