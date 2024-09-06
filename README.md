@@ -78,7 +78,7 @@ When conducting this project on housing trends in Central Texas, we made conscio
 <img width="928" alt="Screenshot 2024-09-05 at 5 50 51 PM" src="https://github.com/user-attachments/assets/4d68b264-79ce-4179-adc4-fa7c1ba360d5">
 
 ### Visualization 3: Median Cost of Home 2018-2022
-<img width="930" alt="Screenshot 2024-09-05 at 5 53 43 PM" src="https://github.com/user-attachments/assets/4e802f06-5abf-44e5-a90b-f02af8d5fe3f">
+![image](https://github.com/user-attachments/assets/1d2dfec9-5d22-4c80-a76c-9c5e2ca82918)
 
 ### Visualization 4: Total Monthly Cost 2018-2022
 ![image](https://github.com/user-attachments/assets/228d3bda-7f4c-49a2-86bd-569e584a96dd)
