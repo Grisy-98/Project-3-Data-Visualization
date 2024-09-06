@@ -58,7 +58,7 @@ When conducting this project on housing trends in Central Texas, we made conscio
 * **Michael Sanchez:** Data collection and preprocessing.
 * **Griselda Rodriguez:** Data analysis and visualization (specifically creating the maps)
 * **Adil Baksh:** Data visualization (specifically the line graphs)
-* **Santiago Cardenas:** Create a SQLAlchemy database, a README.md file, and a PPT presentation.
+* **Santiago Cardenas:** Create a SQLite database, a README.md file, and a PPT presentation.
 
 
 
@@ -66,7 +66,7 @@ When conducting this project on housing trends in Central Texas, we made conscio
 
 * **Data Standardization:** Multiple API calls were made in order to obtain the necessary data for this project 
 * **Merged datasets:** Created a new data frame merging all the data for their respective years (2018-2022) 
-* **Database:** Used sqlalchemy to create our database using the final csv files
+* **Database:** Used sqlite to create our database using the final csv files
 * **Define Functions:** Created functions to read and populate the tables, as well as a function to create data frames for each year 
 
 
